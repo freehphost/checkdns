@@ -25,6 +25,7 @@ DNS propagation checkers are vital tools for anyone managing websites or online 
 
 ### Links for additional articles
 
+https://sites.google.com/view/checkdns/home
 https://letter99987.pages10.com/the-ultimate-guide-to-dns-propagation-64943501
 https://brookssplhc.ampblogs.com/facts-about-dns-propagation-revealed-66145913
 https://beckettztman.blogocial.com/the-ultimate-guide-to-dns-propagation-65332658
